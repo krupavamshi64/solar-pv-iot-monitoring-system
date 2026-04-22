@@ -131,13 +131,17 @@ The system uses sensors connected to a microcontroller (Raspberry Pi Pico W) to 
 ```
 project/
 │
-├── README.md
-├── images/
-│   ├── hardware_setup.jpg
-│   ├── block_diagram.png
-│   ├── dashboard.png
-│   ├── code_output.png
-```
+|__ README.md
+├── src/                        # Source code for Raspberry Pi Pico W
+│   ├── boot.py                 # WiFi connection script
+│   ├── main.py                 # Solar monitoring logic
+│   └── blink_test.py           # Hardware diagnostic script
+│
+└── images/                     # Visual assets for the repository
+    ├── hardware_setup.jpg      # Photo of the physical circuit [cite: 1418]
+    ├── block_diagram.png       # System architecture diagram [cite: 262]
+    ├── dashboard.png           # IoT interface (Blynk/ThingSpeak) [cite: 1404]
+    └── code_output.png         # Screenshot of serial monitor readings [cite: 1386]
 
 ---
 
