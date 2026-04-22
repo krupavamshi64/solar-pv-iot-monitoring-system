@@ -69,19 +69,22 @@ The system uses sensors connected to a microcontroller (Raspberry Pi Pico W) to 
 
 ### 🔹 Hardware Setup
 
-![Hardware Setup](images/hardware_setup.jpg)
+<img width="750" height="500" alt="image" src="https://github.com/user-attachments/assets/556cbb37-c43c-436b-b43b-018bb0eefe46" />
+
 
 ### 🔹 Block Diagram
 
-![Block Diagram](images/block_diagram.png)
+<img width="2094" height="1497" alt="image" src="https://github.com/user-attachments/assets/79b240e2-e094-4ee0-bd1b-415f3ca307ba" />
 
 ### 🔹 Dashboard Output
 
-![Dashboard](images/dashboard.png)
+<img width="3952" height="2936" alt="image" src="https://github.com/user-attachments/assets/a04fcf87-a5ad-400d-be8d-c69fbbd56497" />
+
 
 ### 🔹 Code Execution
 
-![Code Output](images/code_output.png)
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c4c5f906-f060-4eda-9e79-c15435f75bdc" />
+
 
 ---
 
